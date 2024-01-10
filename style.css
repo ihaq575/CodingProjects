@@ -1,0 +1,9 @@
+a:link, a:visited{
+    color: black;
+    background-color: rgb(126, 125, 117);
+    text-decoration: none;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 28px;
+    
+}
